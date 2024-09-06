@@ -60,6 +60,8 @@ A Node.js application demonstrating Discord OAuth integration. Users can log in 
 ## Usage
 
 > Login: Navigate to [/login](http://localhost:3000/login) to start the Discord OAuth authentication process.
+> 
 > Locked Page: Access [/locked](http://localhost:3000/locked) after successful login to view the protected content.
+> 
 > Logout: Visit [/logout](http://localhost:3000/logout) to log out and be redirected to the homepage.
 
